@@ -1,0 +1,16 @@
+H:\Workspace\DadosAritmeticosEmC\bin\Debug\net5.0\DadosAritmeticosEmC.exe
+H:\Workspace\DadosAritmeticosEmC\bin\Debug\net5.0\DadosAritmeticosEmC.deps.json
+H:\Workspace\DadosAritmeticosEmC\bin\Debug\net5.0\DadosAritmeticosEmC.runtimeconfig.json
+H:\Workspace\DadosAritmeticosEmC\bin\Debug\net5.0\DadosAritmeticosEmC.runtimeconfig.dev.json
+H:\Workspace\DadosAritmeticosEmC\bin\Debug\net5.0\DadosAritmeticosEmC.dll
+H:\Workspace\DadosAritmeticosEmC\bin\Debug\net5.0\ref\DadosAritmeticosEmC.dll
+H:\Workspace\DadosAritmeticosEmC\bin\Debug\net5.0\DadosAritmeticosEmC.pdb
+H:\Workspace\DadosAritmeticosEmC\obj\Debug\net5.0\DadosAritmeticosEmC.csprojAssemblyReference.cache
+H:\Workspace\DadosAritmeticosEmC\obj\Debug\net5.0\DadosAritmeticosEmC.GeneratedMSBuildEditorConfig.editorconfig
+H:\Workspace\DadosAritmeticosEmC\obj\Debug\net5.0\DadosAritmeticosEmC.AssemblyInfoInputs.cache
+H:\Workspace\DadosAritmeticosEmC\obj\Debug\net5.0\DadosAritmeticosEmC.AssemblyInfo.cs
+H:\Workspace\DadosAritmeticosEmC\obj\Debug\net5.0\DadosAritmeticosEmC.csproj.CoreCompileInputs.cache
+H:\Workspace\DadosAritmeticosEmC\obj\Debug\net5.0\DadosAritmeticosEmC.dll
+H:\Workspace\DadosAritmeticosEmC\obj\Debug\net5.0\ref\DadosAritmeticosEmC.dll
+H:\Workspace\DadosAritmeticosEmC\obj\Debug\net5.0\DadosAritmeticosEmC.pdb
+H:\Workspace\DadosAritmeticosEmC\obj\Debug\net5.0\DadosAritmeticosEmC.genruntimeconfig.cache
